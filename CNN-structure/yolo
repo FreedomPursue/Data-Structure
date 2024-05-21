@@ -1,0 +1,5 @@
+1: yolov1, layers description. 
+include: kernel size, numbers, stride, activation functions etc
+2: yolov7, yaml. 
+include: backbone, head, [xxx,xxx,xxx,xxx]
+
